@@ -3,5 +3,8 @@
 https://ollama.com/download
 
 3. run the app.py python file with streamlit app
+sreamlit run app.py
 
-if you face any diffuculites you can contact me at bibekpaudyal5@gmail.com
+
+srea
+if you face any errors you can contact me at bibekpaudyal5@gmail.com
